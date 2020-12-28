@@ -3,18 +3,28 @@
 <p align='center'> 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/joelmar/"><img src="https://img.shields.io/badge/-@joelmar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/joelmar/" alt="LinkedIn Badge"></a>  
-<a> <img src= 'https://visitor-badge.glitch.me/badge?page_id=loej'>
+<a> <img src= 'https://visitor-badge.glitch.me/badge?page_id='>
 </a>
 </p>
  
 ---
 
-## Hey there! I'm Joel and I study CS @ [Rutgers University](https://www.rutgers.edu/) 
+<h2 align='center'> Hey there! I'm Joel and I study CS @ Rutgers University </h2>
+
 > <strong>joh-əl</strong>
 
-+ ☕ I'm interested in software development and going on runs  
-+ 🔗 I'm passionate about creating software that will impact the Latinx community
++ 🔗 I'm passionate about creating software that will positively impact the Latinx community
 + 📁 I enjoy customizing my Linux configs and creating mini-programs that will improve my day to day workflow
++ 🎽 I also like to go on long runs and try to beat my PR (when I motivate mysefl to lol)
++ 🎛️ I enjoy Rap music, here's my top 5 rap albums if you were curious 😲 
+  + <details> <summary>☝🏽 5  </summary>
+    <br>
+    Illmatic,
+    TPAB,
+    2014 Forest Hills Drive,
+    Under Pressure and
+    Born Sinner.
+  </details>
 
 ### 🔬 I'm currently ...
 - 🍎 A Lab Supervisor @ RU OIT
