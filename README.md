@@ -1,3 +1,3 @@
-<h2 align='center'> Hey, I'm Joel <img src="src/ghost_emoji.gif" width='40' > welcome to my Github!</h2>
+<h2 align='center'> loej.</strong> <img src="src/eyes_emoji.gif" width='40' ></h2>
 
 
