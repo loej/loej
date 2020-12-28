@@ -1,4 +1,4 @@
-<h2 align='center'> Hey! I'm Joel Martinez <img src="https://cliply.co/wp-content/uploads/2019/09/371909290_ROCKET_400px.gif" width='35' > </h2>
+<h2 align='center'> Hey! I'm Joel Martinez <img src="https://pa1.narvii.com/6688/05d32e313c68d6fd7d443360f65549afd21a38b7_hq.gif" width='45' > </h2>
 
 <!--
 **loej/loej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
