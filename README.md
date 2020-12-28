@@ -3,7 +3,7 @@
 <p align='center'> 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/joelmar/"><img src="https://img.shields.io/badge/-@joelmar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/joelmar/" alt="LinkedIn Badge"></a>  
-<a> <img src= 'https://visitor-badge.glitch.me/badge?page_id='>
+<a> <img src= 'https://visitor-badge.glitch.me/badge?page_id=loej'>
 </a>
 </p>
  
