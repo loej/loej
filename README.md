@@ -3,21 +3,20 @@
 <p align='center'> 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/joelmar/"><img src="https://img.shields.io/badge/-@joelmar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/joelmar/" alt="LinkedIn Badge"></a>  
-<a> <img src= 'https://visitor-badge.glitch.me/badge?page_id=loej.loej'>
-</a>
+<!-- <a> <img src= 'https://visitor-badge.glitch.me/badge?page_id=loej.loej'>
+</a> -->
 </p>
  
-
 ---
 
+## Hey there! I'm Joel and I study CS @ [Rutgers University](https://www.rutgers.edu/) 
 > <strong>joh-əl</strong>
 
-### Hey there! I'm Joel and I study CS @ [Rutgers University](https://www.rutgers.edu/) 
++ ☕ I'm interested in software development and going on runs  
++ 🔗 I'm passionate about creating software that will impact the Latinx community
++ 📁 I enjoy customizing my Linux configs and creating mini-programs that will improve my day to day workflow
 
-+ 
-
-
-#### 🔬 I'm currently ...
+### 🔬 I'm currently ...
 - 🍎 A Lab Supervisor @ RU OIT
 - 📐 Learning C++, JS/TS, and React.
 - 📖 Creating a web app to aid anyone taking their naturalization & civics test
