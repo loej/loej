@@ -15,7 +15,7 @@
 
 + 🔗 I'm passionate about creating software that will positively impact the Latinx community
 + 📁 I enjoy customizing my Linux configs and creating mini-programs that will improve my day to day workflow
-+ 🎽 I also like to go on long runs and try to beat my PR (when I motivate mysefl to lol)
++ 🎽 I also like to go on long runs and try to beat my PR (when I motivate myself to lol)
 + 🎛️ I enjoy Rap music, here's my top 5 rap albums if you were curious 😲 
   + <details> <summary>☝🏽 5  </summary>
     <br>
