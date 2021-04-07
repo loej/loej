@@ -19,7 +19,7 @@ a lab supervisor at Rutgers OIT.
 Recently, I've been developing software that aids anyone in taking their
 naturalization and civics test. I also enjoy working automating tasks using Python.
 
-####🔬 Stuff I Enjoy
+#### 🔬 Stuff I Enjoy
 + 🔗 I'm passionate about creating software that will positively impact the Latinx community
 + 🐍 I'm currently learning C++ and mastering Python.
 + 🎛️ I enjoy Rap music, here are my top 5 albums
